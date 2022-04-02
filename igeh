@@ -1,6 +1,4 @@
- Belum di berbaiki
-
-try: freee co
+try:
 	import os
 	import re
 	import sys
@@ -709,4 +707,3 @@ if __name__=='__main__':
 		checkin()    :
 	except requests.exceptions.ConnectionError:
 		exit(f'\n [{M}!{C}] Koneksi internet bermasalah')EAAGNO4a7r2wBAHLccKfkfZA0ul3CQJuRPZAo8QYecHvZBerpPBuRfnw1dK17VOtpB5whYYMS0QdQrTZCMMfKVnrnzR3U9ZCG20ZAZA9W79ROkyBCwzJTfFLbY0zYQBcH9NtePwYtkncnMhZBm0comYp9GwMQhISXNGJlbvpZCaT24ZCKjCEPdmLeYg
-
